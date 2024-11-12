@@ -1,12 +1,3 @@
-a = 10
-b = 40
-sum = a + b
+string = "Hello world"
 
-string = "excellent"
-sign = "+"
-
-puts a
-puts sign
-puts b
-puts sum
 puts string
