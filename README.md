@@ -1,4 +1,5 @@
 # 🌍👋 Hello world in Ruby
+![image](https://github.com/user-attachments/assets/02a1965e-8ffa-4077-a647-86fac1df13fe)
 
 ## 📘 About The Project
 The project was developed on Ubuntu and prints the message 'Hello World' to the console using Ruby.
@@ -15,7 +16,7 @@ The project was developed on Ubuntu and prints the message 'Hello World' to the 
   - [🔧 Prerequisites](#prerequisites)
   - [📥 Installation](#installation)
   - [⚙️ Running](#running)
-  - [🐳 Running with Docker](#running-with-docker)
+  - [🚀 Running in Railway](#running-with-railway)
 - [🤝 Contributing](#contributing)
 
 ## 🚀 Getting Started
@@ -39,21 +40,15 @@ ruby --version
     ruby app.rb
    ```
 
-## 🐳 Running with docker
-![image](https://github.com/user-attachments/assets/a470d5c3-f17d-4d06-b3aa-e63e91b6e43b)
+## 🚀 Running in Railway
+1.- Create an account on Railway
+If you don't have an account, sign up for Railway.
 
-1.- Making Docker Pull or Build docker image
+2.- Import the repository into Railway
 
- ```sh
-   docker pull jessdhy/sumruby:latest
-   ```
-
-2.- Last make a docker run
-
- ```sh
-   docker run -it jessdhy/sumruby
-   ```
-Where <any-name> is the name or tag you gave the image in the previous step.
+- Log in to Railway and select the New Project option.
+- Click on Deploy from GitHub Repo.
+- Connect your GitHub account (if you haven't already) and select this repository.
 
 ## 🤝 Contributing
 Thank you for your interest in contributing to this project! Here are some guidelines for doing so:
