@@ -40,7 +40,7 @@ ruby --version
    ```
 
 ## 🐳 Running with docker
-![image](https://github.com/user-attachments/assets/86becf25-023b-4ea2-a5fe-2f567ff1b40d)
+![image](https://github.com/user-attachments/assets/a470d5c3-f17d-4d06-b3aa-e63e91b6e43b)
 
 1.- Making Docker Pull or Build docker image
 
