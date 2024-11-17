@@ -1,8 +1,12 @@
 # 🌍👋 Hello world in Ruby
-![image](https://github.com/user-attachments/assets/0eefdbbb-277a-49e1-b8a3-74c7e7274c22)
 
 ## 📘 About The Project
-The project was developed on Ubuntu and prints the message 'Hello World' to the console using Python.
+The project was developed on Ubuntu and prints the message 'Hello World' to the console using Ruby.
+
+## ⚠️ **¡IMPORTANT!** ⚠️
+
+- The **main** branch contains the project with Docker setup.
+- The **railway-deployment** branch contains the project configured for Railway. 
 
 ## 📑 Table of Contents
 
